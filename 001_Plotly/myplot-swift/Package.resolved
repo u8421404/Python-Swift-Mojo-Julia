@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "plotly.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vojtamolda/Plotly.swift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "310a1c4692537567de79cf0fb1a89fc5b5c329b6"
+      }
+    }
+  ],
+  "version" : 2
+}
